@@ -1,0 +1,870 @@
+Starting Grading Student:  gmcfarlin
+
+*******************************
+
+Starting to grade scifi_faves()
+
+*******************************
+
+Running Test: Standard File Test
+Expected Output Is
+
+Niven: 14 books with 120 total nominations
+Heinlein: 14 books with 119 total nominations
+Clarke: 11 books with 95 total nominations
+Zelazny: 12 books with 93 total nominations
+Asimov: 9 books with 84 total nominations
+McCaffrey: 8 books with 73 total nominations
+Le Guin: 7 books with 65 total nominations
+Tolkien: 4 books with 62 total nominations
+Brunner: 7 books with 51 total nominations
+Herbert: 4 books with 48 total nominations
+Brin: 3 books with 47 total nominations
+Leiber: 8 books with 46 total nominations
+Dickson: 6 books with 41 total nominations
+Piper: 8 books with 41 total nominations
+Harrison: 7 books with 40 total nominations
+Wolfe: 3 books with 39 total nominations
+Wells: 4 books with 37 total nominations
+Vance: 9 books with 36 total nominations
+Donaldson: 4 books with 30 total nominations
+Varley: 6 books with 30 total nominations
+Anderson: 11 books with 29 total nominations
+Anthony: 8 books with 29 total nominations
+Bester: 2 books with 29 total nominations
+Adams: 3 books with 28 total nominations
+Pohl: 5 books with 28 total nominations
+Bradbury: 4 books with 26 total nominations
+Smith: 3 books with 25 total nominations
+Laumer: 6 books with 23 total nominations
+Simak: 3 books with 23 total nominations
+Lem: 7 books with 22 total nominations
+Silverberg: 6 books with 22 total nominations
+Asprin: 2 books with 21 total nominations
+Dick: 3 books with 21 total nominations
+Delany: 4 books with 19 total nominations
+Haldeman: 1 book with 19 total nominations
+Robinson: 4 books with 19 total nominations
+Smith: 4 books with 19 total nominations
+Forward: 2 books with 18 total nominations
+Hogan: 5 books with 18 total nominations
+Bradley: 4 books with 17 total nominations
+de Camp: 3 books with 17 total nominations
+van Vogt: 5 books with 17 total nominations
+Vonnegut: 4 books with 17 total nominations
+Clement: 2 books with 16 total nominations
+MacAvoy: 4 books with 16 total nominations
+Moorcock: 6 books with 16 total nominations
+Schmitz: 4 books with 16 total nominations
+Wyndham: 4 books with 16 total nominations
+Miller: 1 book with 15 total nominations
+Brust: 2 books with 14 total nominations
+Cherryh: 4 books with 14 total nominations
+Blish: 2 books with 13 total nominations
+Farmer: 2 books with 13 total nominations
+Panshin: 2 books with 12 total nominations
+Baum: 3 books with 11 total nominations
+Garrett: 2 books with 11 total nominations
+Henderson: 3 books with 11 total nominations
+L'Engle: 2 books with 11 total nominations
+Gerrold: 3 books with 10 total nominations
+Sucharitkul: 3 books with 10 total nominations
+Ellison: 3 books with 9 total nominations
+May: 2 books with 9 total nominations
+Duane: 2 books with 8 total nominations
+Ford: 2 books with 8 total nominations
+Huxley: 1 book with 8 total nominations
+Keyes: 1 book with 8 total nominations
+Pangborn: 2 books with 8 total nominations
+Russell: 3 books with 8 total nominations
+Sturgeon: 1 book with 8 total nominations
+Beagle: 2 books with 7 total nominations
+Brown: 2 books with 7 total nominations
+McIntyre: 1 book with 7 total nominations
+Myers: 1 book with 7 total nominations
+Orwell: 1 book with 7 total nominations
+Saberhagen: 2 books with 7 total nominations
+Stasheff: 2 books with 7 total nominations
+Lee: 3 books with 6 total nominations
+Stapledon: 2 books with 6 total nominations
+Abbott: 1 book with 5 total nominations
+Eddings: 1 book with 5 total nominations
+Gibson: 1 book with 5 total nominations
+Lafferty: 2 books with 5 total nominations
+Lewis: 2 books with 5 total nominations
+Verne: 2 books with 5 total nominations
+Vinge: 1 book with 5 total nominations
+Benford: 1 book with 4 total nominations
+Chalker: 1 book with 4 total nominations
+Disch: 1 book with 4 total nominations
+Hodgell: 1 book with 4 total nominations
+Howard: 1 book with 4 total nominations
+McKillip: 1 book with 4 total nominations
+Norton: 2 books with 4 total nominations
+Shea: 1 book with 4 total nominations
+Vinge: 1 book with 4 total nominations
+Wilhelm: 1 book with 4 total nominations
+Burroughs: 1 book with 3 total nominations
+Card: 1 book with 3 total nominations
+Crowley: 1 book with 3 total nominations
+Dunsany: 1 book with 3 total nominations
+Eddison: 1 book with 3 total nominations
+Goldman: 1 book with 3 total nominations
+McKinley: 1 book with 3 total nominations
+Pratchett: 1 book with 3 total nominations
+White: 1 book with 3 total nominations
+Ballard: 1 book with 2 total nominations
+Bova: 1 book with 2 total nominations
+Budrys: 1 book with 2 total nominations
+Carroll: 1 book with 2 total nominations
+Chant: 1 book with 2 total nominations
+Dalmas: 1 book with 2 total nominations
+Goldstein: 1 book with 2 total nominations
+Hambly: 1 book with 2 total nominations
+Hardy: 1 book with 2 total nominations
+Hoyle: 1 book with 2 total nominations
+Ing: 1 book with 2 total nominations
+Kurtz: 1 book with 2 total nominations
+Kuttner: 1 book with 2 total nominations
+Leinster: 1 book with 2 total nominations
+Mac Rauch: 1 book with 2 total nominations
+Morris: 1 book with 2 total nominations
+Nowlan: 1 book with 2 total nominations
+Pini: 1 book with 2 total nominations
+Pinkwater: 1 book with 2 total nominations
+Powers: 1 book with 2 total nominations
+Reamy: 1 book with 2 total nominations
+Robinson: 1 book with 2 total nominations
+Rosenberg: 1 book with 2 total nominations
+Shute: 1 book with 2 total nominations
+Smith: 1 book with 2 total nominations
+Spinrad: 1 book with 2 total nominations
+Stewart: 1 book with 2 total nominations
+Stoker: 1 book with 2 total nominations
+Twain: 1 book with 2 total nominations
+White: 1 book with 2 total nominations
+Zamyatin: 1 book with 2 total nominations
+
+
+Student Output Is
+
+Heinlein: 14 books with 119 total nominations
+Clarke: 11 books with 95 total nominations
+Zelazny: 12 books with 93 total nominations
+Asimov: 9 books with 84 total nominations
+Niven: 9 books with 75 total nominations
+McCaffrey: 8 books with 73 total nominations
+Le Guin: 7 books with 65 total nominations
+Tolkien: 4 books with 62 total nominations
+Brunner: 7 books with 51 total nominations
+Herbert: 4 books with 48 total nominations
+Brin: 3 books with 47 total nominations
+Leiber: 8 books with 46 total nominations
+Niven: 5 books with 45 total nominations
+Dickson: 6 books with 41 total nominations
+Piper: 8 books with 41 total nominations
+Harrison: 7 books with 40 total nominations
+Wolfe: 3 books with 39 total nominations
+Wells: 4 books with 37 total nominations
+Vance: 9 books with 36 total nominations
+Donaldson: 4 books with 30 total nominations
+Varley: 6 books with 30 total nominations
+Anthony: 8 books with 29 total nominations
+Bester: 2 books with 29 total nominations
+Adams: 3 books with 28 total nominations
+Bradbury: 4 books with 26 total nominations
+Smith: 3 books with 25 total nominations
+Anderson: 9 books with 24 total nominations
+Laumer: 6 books with 23 total nominations
+Simak: 3 books with 23 total nominations
+Lem: 7 books with 22 total nominations
+Silverberg: 6 books with 22 total nominations
+Asprin: 2 books with 21 total nominations
+Dick: 3 books with 21 total nominations
+Delany: 4 books with 19 total nominations
+Haldeman: 1 book with 19 total nominations
+Pohl: 3 books with 19 total nominations
+Smith: 4 books with 19 total nominations
+Forward: 2 books with 18 total nominations
+Hogan: 5 books with 18 total nominations
+Bradley: 4 books with 17 total nominations
+Vonnegut: 4 books with 17 total nominations
+van Vogt: 5 books with 17 total nominations
+Clement: 2 books with 16 total nominations
+MacAvoy: 4 books with 16 total nominations
+Moorcock: 6 books with 16 total nominations
+Schmitz: 4 books with 16 total nominations
+Wyndham: 4 books with 16 total nominations
+Miller: 1 book with 15 total nominations
+Robinson: 3 books with 15 total nominations
+Brust: 2 books with 14 total nominations
+Cherryh: 4 books with 14 total nominations
+Blish: 2 books with 13 total nominations
+Farmer: 2 books with 13 total nominations
+Panshin: 2 books with 12 total nominations
+Baum: 3 books with 11 total nominations
+Garrett: 2 books with 11 total nominations
+Henderson: 3 books with 11 total nominations
+L'Engle: 2 books with 11 total nominations
+de Camp: 1 book with 11 total nominations
+Gerrold: 3 books with 10 total nominations
+Sucharitkul: 3 books with 10 total nominations
+Ellison: 3 books with 9 total nominations
+May: 2 books with 9 total nominations
+Pohl: 2 books with 9 total nominations
+Duane: 2 books with 8 total nominations
+Ford: 2 books with 8 total nominations
+Huxley: 1 book with 8 total nominations
+Keyes: 1 book with 8 total nominations
+Pangborn: 2 books with 8 total nominations
+Russell: 3 books with 8 total nominations
+Sturgeon: 1 book with 8 total nominations
+Beagle: 2 books with 7 total nominations
+Brown: 2 books with 7 total nominations
+McIntyre: 1 book with 7 total nominations
+Myers: 1 book with 7 total nominations
+Orwell: 1 book with 7 total nominations
+Saberhagen: 2 books with 7 total nominations
+Stasheff: 2 books with 7 total nominations
+Lee: 3 books with 6 total nominations
+Stapledon: 2 books with 6 total nominations
+de Camp: 2 books with 6 total nominations
+Abbott: 1 book with 5 total nominations
+Anderson: 2 books with 5 total nominations
+Eddings: 1 book with 5 total nominations
+Gibson: 1 book with 5 total nominations
+Lafferty: 2 books with 5 total nominations
+Lewis: 2 books with 5 total nominations
+Verne: 2 books with 5 total nominations
+Vinge: 1 book with 5 total nominations
+Benford: 1 book with 4 total nominations
+Chalker: 1 book with 4 total nominations
+Disch: 1 book with 4 total nominations
+Hodgell: 1 book with 4 total nominations
+Howard: 1 book with 4 total nominations
+McKillip: 1 book with 4 total nominations
+Norton: 2 books with 4 total nominations
+Robinson: 1 book with 4 total nominations
+Shea: 1 book with 4 total nominations
+Vinge: 1 book with 4 total nominations
+Wilhelm: 1 book with 4 total nominations
+Burroughs: 1 book with 3 total nominations
+Card: 1 book with 3 total nominations
+Crowley: 1 book with 3 total nominations
+Dunsany: 1 book with 3 total nominations
+Eddison: 1 book with 3 total nominations
+Goldman: 1 book with 3 total nominations
+McKinley: 1 book with 3 total nominations
+Pratchett: 1 book with 3 total nominations
+White: 1 book with 3 total nominations
+Ballard: 1 book with 2 total nominations
+Bova: 1 book with 2 total nominations
+Budrys: 1 book with 2 total nominations
+Carroll: 1 book with 2 total nominations
+Chant: 1 book with 2 total nominations
+Dalmas: 1 book with 2 total nominations
+Goldstein: 1 book with 2 total nominations
+Hambly: 1 book with 2 total nominations
+Hardy: 1 book with 2 total nominations
+Hoyle: 1 book with 2 total nominations
+Ing: 1 book with 2 total nominations
+Kurtz: 1 book with 2 total nominations
+Kuttner: 1 book with 2 total nominations
+Leinster: 1 book with 2 total nominations
+Mac Rauch: 1 book with 2 total nominations
+Morris: 1 book with 2 total nominations
+Nowlan: 1 book with 2 total nominations
+Pini: 1 book with 2 total nominations
+Pinkwater: 1 book with 2 total nominations
+Powers: 1 book with 2 total nominations
+Reamy: 1 book with 2 total nominations
+Robinson: 1 book with 2 total nominations
+Rosenberg: 1 book with 2 total nominations
+Shute: 1 book with 2 total nominations
+Smith: 1 book with 2 total nominations
+Spinrad: 1 book with 2 total nominations
+Stewart: 1 book with 2 total nominations
+Stoker: 1 book with 2 total nominations
+Twain: 1 book with 2 total nominations
+White: 1 book with 2 total nominations
+Zamyatin: 1 book with 2 total nominations
+
+
+
+	Output does not match. No points earned
+
+Running Test: Super Basic Test
+Expected Output Is
+
+Anderson: 2 books with 4 total nominations
+
+
+Student Output Is
+
+Anderson: 2 books with 4 total nominations
+
+
+
+	Output matches! Earned  10  points
+
+Running Test: Basic Test with Emphasis on Case Insensitivity
+Expected Output Is
+
+aBeagle: 1 book with 2 total nominations
+abPangborn: 1 book with 2 total nominations
+Anderson: 1 book with 2 total nominations
+dAnderson: 1 book with 2 total nominations
+Ellison: 1 book with 2 total nominations
+Niven: 1 book with 2 total nominations
+Schmitz: 1 book with 2 total nominations
+Twain: 1 book with 1 total nomination
+
+
+Student Output Is
+
+Anderson: 1 book with 2 total nominations
+Ellison: 1 book with 2 total nominations
+Niven: 1 book with 2 total nominations
+Schmitz: 1 book with 2 total nominations
+aBeagle: 1 book with 2 total nominations
+abPangborn: 1 book with 2 total nominations
+dAnderson: 1 book with 2 total nominations
+Twain: 1 book, with 1 total nomination
+
+
+
+	Output does not match. No points earned
+
+Running Test: File Format Changes Test
+Expected Output Is
+
+McCaffrey: 8 books with 71 total nominations
+Niven: 12 books with 54 total nominations
+Brunner: 7 books with 51 total nominations
+Vonnegut: 3 books with 50 total nominations
+Heinlein: 10 books with 42 total nominations
+Zelazny: 8 books with 39 total nominations
+Clarke: 6 books with 38 total nominations
+Le Guin: 5 books with 37 total nominations
+Dickson: 5 books with 35 total nominations
+Harrison: 6 books with 35 total nominations
+Leiber: 6 books with 35 total nominations
+Piper: 7 books with 35 total nominations
+Vance: 8 books with 31 total nominations
+Donaldson: 4 books with 30 total nominations
+Bester: 2 books with 29 total nominations
+Ellison: 3 books with 29 total nominations
+Adams: 3 books with 28 total nominations
+Anthony: 7 books with 26 total nominations
+Bradbury: 4 books with 26 total nominations
+Asimov: 6 books with 24 total nominations
+Varley: 5 books with 24 total nominations
+Wyndham: 4 books with 24 total nominations
+Anderson: 9 books with 23 total nominations
+Simak: 3 books with 23 total nominations
+Lem: 7 books with 22 total nominations
+Silverberg: 6 books with 22 total nominations
+Asprin: 2 books with 21 total nominations
+Dick: 3 books with 21 total nominations
+Smith: 2 books with 21 total nominations
+Wolfe: 2 books with 20 total nominations
+Delany: 4 books with 19 total nominations
+Pohl: 3 books with 19 total nominations
+Robinson: 4 books with 19 total nominations
+Wells: 3 books with 19 total nominations
+Forward: 2 books with 18 total nominations
+Bradley: 4 books with 17 total nominations
+de Camp: 3 books with 17 total nominations
+Tolkien: 2 books with 17 total nominations
+Brin: 1 book with 16 total nominations
+Schmitz: 4 books with 16 total nominations
+Miller: 1 book with 15 total nominations
+Cherryh: 4 books with 14 total nominations
+Clement: 2 books with 14 total nominations
+Smith: 3 books with 14 total nominations
+Farmer: 2 books with 13 total nominations
+MacAvoy: 3 books with 13 total nominations
+Hogan: 4 books with 12 total nominations
+Moorcock: 5 books with 12 total nominations
+Panshin: 2 books with 12 total nominations
+Garrett: 2 books with 11 total nominations
+Herbert: 3 books with 11 total nominations
+L'Engle: 2 books with 11 total nominations
+Laumer: 3 books with 11 total nominations
+Brust: 1 book with 10 total nominations
+van Vogt: 3 books with 9 total nominations
+Duane: 2 books with 8 total nominations
+Gerrold: 2 books with 8 total nominations
+Huxley: 1 book with 8 total nominations
+Keyes: 1 book with 8 total nominations
+Pangborn: 2 books with 8 total nominations
+Sturgeon: 1 book with 8 total nominations
+Baum: 2 books with 7 total nominations
+Beagle: 2 books with 7 total nominations
+Brown: 2 books with 7 total nominations
+Henderson: 2 books with 7 total nominations
+Myers: 1 book with 7 total nominations
+Saberhagen: 2 books with 7 total nominations
+Stasheff: 2 books with 7 total nominations
+Blish: 1 book with 6 total nominations
+Lee: 3 books with 6 total nominations
+Russell: 2 books with 6 total nominations
+Stapledon: 2 books with 6 total nominations
+Sucharitkul: 2 books with 6 total nominations
+Abbott: 1 book with 5 total nominations
+Gibson: 1 book with 5 total nominations
+Lafferty: 2 books with 5 total nominations
+Lewis: 2 books with 5 total nominations
+Vinge: 1 book with 5 total nominations
+Chalker: 1 book with 4 total nominations
+Disch: 1 book with 4 total nominations
+Hodgell: 1 book with 4 total nominations
+Howard: 1 book with 4 total nominations
+Norton: 2 books with 4 total nominations
+Shea: 1 book with 4 total nominations
+Vinge: 1 book with 4 total nominations
+Wilhelm: 1 book with 4 total nominations
+Card: 1 book with 3 total nominations
+Crowley: 1 book with 3 total nominations
+Dunsany: 1 book with 3 total nominations
+Eddison: 1 book with 3 total nominations
+Goldman: 1 book with 3 total nominations
+May: 1 book with 3 total nominations
+Pratchett: 1 book with 3 total nominations
+White: 1 book with 3 total nominations
+Ballard: 1 book with 2 total nominations
+Bova: 1 book with 2 total nominations
+Budrys: 1 book with 2 total nominations
+Carroll: 1 book with 2 total nominations
+Chant: 1 book with 2 total nominations
+Dalmas: 1 book with 2 total nominations
+Ford: 1 book with 2 total nominations
+Goldstein: 1 book with 2 total nominations
+Hambly: 1 book with 2 total nominations
+Hardy: 1 book with 2 total nominations
+Hoyle: 1 book with 2 total nominations
+Ing: 1 book with 2 total nominations
+Kurtz: 1 book with 2 total nominations
+Kuttner: 1 book with 2 total nominations
+Mac Rauch: 1 book with 2 total nominations
+Morris: 1 book with 2 total nominations
+Nowlan: 1 book with 2 total nominations
+Pini: 1 book with 2 total nominations
+Pinkwater: 1 book with 2 total nominations
+Powers: 1 book with 2 total nominations
+Reamy: 1 book with 2 total nominations
+Robinson: 1 book with 2 total nominations
+Rosenberg: 1 book with 2 total nominations
+Smith: 1 book with 2 total nominations
+Spinrad: 1 book with 2 total nominations
+Stewart: 1 book with 2 total nominations
+Stoker: 1 book with 2 total nominations
+Twain: 1 book with 2 total nominations
+Verne: 1 book with 2 total nominations
+White: 1 book with 2 total nominations
+Leinster: 1 book with 1 total nomination
+Shute: 1 book with 1 total nomination
+
+
+Student Output Is
+
+McCaffrey: 8 books with 71 total nominations
+Brunner: 7 books with 51 total nominations
+Vonnegut: 3 books with 50 total nominations
+Heinlein: 10 books with 42 total nominations
+Niven: 8 books with 40 total nominations
+Zelazny: 8 books with 39 total nominations
+Clarke: 6 books with 38 total nominations
+Le Guin: 5 books with 37 total nominations
+Dickson: 5 books with 35 total nominations
+Harrison: 6 books with 35 total nominations
+Leiber: 6 books with 35 total nominations
+Piper: 7 books with 35 total nominations
+Vance: 8 books with 31 total nominations
+Donaldson: 4 books with 30 total nominations
+Bester: 2 books with 29 total nominations
+Ellison: 3 books with 29 total nominations
+Adams: 3 books with 28 total nominations
+Anthony: 7 books with 26 total nominations
+Bradbury: 4 books with 26 total nominations
+Asimov: 6 books with 24 total nominations
+Varley: 5 books with 24 total nominations
+Wyndham: 4 books with 24 total nominations
+Simak: 3 books with 23 total nominations
+Lem: 7 books with 22 total nominations
+Silverberg: 6 books with 22 total nominations
+Anderson: 8 books with 21 total nominations
+Asprin: 2 books with 21 total nominations
+Dick: 3 books with 21 total nominations
+Smith: 2 books with 21 total nominations
+Wolfe: 2 books with 20 total nominations
+Delany: 4 books with 19 total nominations
+Pohl: 3 books with 19 total nominations
+Wells: 3 books with 19 total nominations
+Forward: 2 books with 18 total nominations
+Bradley: 4 books with 17 total nominations
+Tolkien: 2 books with 17 total nominations
+Brin: 1 book with 16 total nominations
+Schmitz: 4 books with 16 total nominations
+Miller: 1 book with 15 total nominations
+Robinson: 3 books with 15 total nominations
+Cherryh: 4 books with 14 total nominations
+Clement: 2 books with 14 total nominations
+Niven: 4 books with 14 total nominations
+Smith: 3 books with 14 total nominations
+Farmer: 2 books with 13 total nominations
+MacAvoy: 3 books with 13 total nominations
+Hogan: 4 books with 12 total nominations
+Moorcock: 5 books with 12 total nominations
+Panshin: 2 books with 12 total nominations
+Garrett: 2 books with 11 total nominations
+Herbert: 3 books with 11 total nominations
+L'Engle: 2 books with 11 total nominations
+Laumer: 3 books with 11 total nominations
+de Camp: 1 book with 11 total nominations
+Brust: 1 book with 10 total nominations
+van Vogt: 3 books with 9 total nominations
+Duane: 2 books with 8 total nominations
+Gerrold: 2 books with 8 total nominations
+Huxley: 1 book with 8 total nominations
+Keyes: 1 book with 8 total nominations
+Pangborn: 2 books with 8 total nominations
+Sturgeon: 1 book with 8 total nominations
+Baum: 2 books with 7 total nominations
+Beagle: 2 books with 7 total nominations
+Brown: 2 books with 7 total nominations
+Henderson: 2 books with 7 total nominations
+Myers: 1 book with 7 total nominations
+Saberhagen: 2 books with 7 total nominations
+Stasheff: 2 books with 7 total nominations
+Blish: 1 book with 6 total nominations
+Lee: 3 books with 6 total nominations
+Russell: 2 books with 6 total nominations
+Stapledon: 2 books with 6 total nominations
+Sucharitkul: 2 books with 6 total nominations
+de Camp: 2 books with 6 total nominations
+Abbott: 1 book with 5 total nominations
+Gibson: 1 book with 5 total nominations
+Lafferty: 2 books with 5 total nominations
+Lewis: 2 books with 5 total nominations
+Vinge: 1 book with 5 total nominations
+Chalker: 1 book with 4 total nominations
+Disch: 1 book with 4 total nominations
+Hodgell: 1 book with 4 total nominations
+Howard: 1 book with 4 total nominations
+Norton: 2 books with 4 total nominations
+Robinson: 1 book with 4 total nominations
+Shea: 1 book with 4 total nominations
+Vinge: 1 book with 4 total nominations
+Wilhelm: 1 book with 4 total nominations
+Card: 1 book with 3 total nominations
+Crowley: 1 book with 3 total nominations
+Dunsany: 1 book with 3 total nominations
+Eddison: 1 book with 3 total nominations
+Goldman: 1 book with 3 total nominations
+May: 1 book with 3 total nominations
+Pratchett: 1 book with 3 total nominations
+White: 1 book with 3 total nominations
+Anderson: 1 book with 2 total nominations
+Ballard: 1 book with 2 total nominations
+Bova: 1 book with 2 total nominations
+Budrys: 1 book with 2 total nominations
+Carroll: 1 book with 2 total nominations
+Chant: 1 book with 2 total nominations
+Dalmas: 1 book with 2 total nominations
+Ford: 1 book with 2 total nominations
+Goldstein: 1 book with 2 total nominations
+Hambly: 1 book with 2 total nominations
+Hardy: 1 book with 2 total nominations
+Hoyle: 1 book with 2 total nominations
+Ing: 1 book with 2 total nominations
+Kurtz: 1 book with 2 total nominations
+Kuttner: 1 book with 2 total nominations
+Mac Rauch: 1 book with 2 total nominations
+Morris: 1 book with 2 total nominations
+Nowlan: 1 book with 2 total nominations
+Pini: 1 book with 2 total nominations
+Pinkwater: 1 book with 2 total nominations
+Powers: 1 book with 2 total nominations
+Reamy: 1 book with 2 total nominations
+Robinson: 1 book with 2 total nominations
+Rosenberg: 1 book with 2 total nominations
+Smith: 1 book with 2 total nominations
+Spinrad: 1 book with 2 total nominations
+Stewart: 1 book with 2 total nominations
+Stoker: 1 book with 2 total nominations
+Twain: 1 book with 2 total nominations
+Verne: 1 book with 2 total nominations
+White: 1 book with 2 total nominations
+Leinster: 1 book, with 1 total nomination
+Shute: 1 book, with 1 total nomination
+
+
+
+	Output does not match. No points earned
+
+
+Total points for scifi_faves(): 10.00
+
+******************************
+
+Starting to grade animal_col()
+
+******************************
+
+Running Test: Output Formatting Test
+Student Output Is
+
+What type of animal are you running from? A Brood of fishs is coming to git you!
+What type of animal are you running from? A Nest of vipers got you!
+*Exit*
+
+
+Expected Output Is
+
+What type of animal are you running from?
+A Shoal of fish are coming to git you!
+
+	Format is not correct. No points earned
+
+Running Test: Standard File Test
+Student Output Is
+
+What type of animal are you running from? A Watch of nightingales is coming to git you!
+What type of animal are you running from? A Gang of elks is coming to git you!
+What type of animal are you running from? A Group of rhinoceris is coming to git you!
+What type of animal are you running from? A Leash of greyhounds is coming to git you!
+What type of animal are you running from? A Troop of kangaroos is coming to git you!
+What type of animal are you running from? A Drove of cattle got you!
+*Exit*
+
+
+Input: nightingales
+Expected Output: watch of nightingales
+	Output matches! Earned  2.7  points
+
+Input: elks
+Expected Output: gang of elks
+	Output matches! Earned  2.7  points
+
+Input: rhinoceri
+Expected Output: crash of rhinoceri
+	Output does not match. No points earned
+
+Input: greyhounds
+Expected Output: leash of greyhounds
+	Output matches! Earned  2.7  points
+
+Input: kangaroos
+Expected Output: troop of kangaroos
+	Output matches! Earned  2.7  points
+
+Running Test: File Format Test
+Student Output Is
+
+What type of animal are you running from? A Stench of skunks is coming to git you!
+What type of animal are you running from? A Zeal of zebras is coming to git you!
+What type of animal are you running from? A Shiver of sharks is coming to git you!
+What type of animal are you running from? A Conspiracy of lemurs is coming to git you!
+What type of animal are you running from? A Gam of orcas got you!
+*Exit*
+
+
+Input: skunks
+Expected Output: stench of skunks
+	Output matches! Earned  1  points
+
+Input: zebras
+Expected Output: zeal of zebras
+	Output matches! Earned  1  points
+
+Input: sharks
+Expected Output: shiver of sharks
+	Output matches! Earned  1  points
+
+Input: lemurs
+Expected Output: conspiracy of lemurs
+	Output matches! Earned  1  points
+
+Running Test: Singulars in Standard File Test
+Student Output Is
+
+What type of animal are you running from? A Husk of hares is coming to git you!
+What type of animal are you running from? A Leash of goldfinchs is coming to git you!
+What type of animal are you running from? A Covey of foxs is coming to git you!
+What type of animal are you running from? A Kindle of kittens is coming to git you!
+What type of animal are you running from? A Bed of clams is coming to git you!
+What type of animal are you running from? A Flock of sheep got you!
+*Exit*
+
+
+Input: hare
+Expected Output: husk of hares
+	Output matches! Earned  0.7  points
+
+Input: goldfinch
+Expected Output: charm of goldfinches
+	Output does not match. No points earned
+
+Input: fox
+Expected Output: skulk of foxes
+	Output does not match. No points earned
+
+Input: kitten
+Expected Output: kindle of kittens
+	Output matches! Earned  0.7  points
+
+Input: clam
+Expected Output: bed of clams
+	Output matches! Earned  0.7  points
+
+Running Test: Unknown Animal Type Test
+Student Output Is
+
+What type of animal are you running from? 
+
+EXCEPTION THROWN WHILE RUNNING FUNCTION:
+IndexError: list index out of range
+
+
+
+	Output does not match. No points earned
+
+Running Test: Random End1 Test
+Student Output Is
+
+What type of animal are you running from? 
+
+EXCEPTION THROWN WHILE RUNNING FUNCTION:
+IndexError: list index out of range
+
+
+
+	Output does not match. No points earned
+
+Running Test: Random End2 Test
+Student Output Is
+
+What type of animal are you running from? 
+
+EXCEPTION THROWN WHILE RUNNING FUNCTION:
+IndexError: list index out of range
+
+
+
+	Output does not match. No points earned
+
+
+Total points for animal_col(): 16.90
+
+*****************************
+
+Starting to grade calculator()
+
+*****************************
+
+Checking if format is correct
+
+	Formatting is Correct! Earned 3
+
+Starting yaml testcases
+
+Running Test: Basic Add
+
+Input Is:  +
+3
+2
+q
+Expected Output Is:  5.0
+
+	Output matches! Earned  3  points
+
+Running Test: Basic Sub
+
+Input Is:  -
+5
+4
+q
+Expected Output Is:  1.0
+
+	Output matches! Earned  3  points
+
+Running Test: Basic Mult
+
+Input Is:  *
+3
+2
+q
+Expected Output Is:  6.0
+
+	Output matches! Earned  3  points
+
+Running Test: Basic Div
+
+Input Is:  /
+4
+2
+q
+Expected Output Is:  2.0
+
+	Output matches! Earned  3  points
+
+Running Test: Basic Exp
+
+Input Is:  ^
+3
+2
+q
+Expected Output Is:  9.0
+
+	Output matches! Earned  3  points
+
+Running Test: Empty Operands
+
+Input Is:  -
+
+
+q
+Expected Output Is:  0.0
+
+	Output matches! Earned  3  points
+
+Running Test: One Float
+
+Input Is:  -
+3.1
+1
+q
+Expected Output Is:  2.1
+
+	Output matches! Earned  3  points
+
+Running Test: Two Floats
+
+Input Is:  -
+2.7
+1.4
+q
+Expected Output Is:  1.3
+
+	Output matches! Earned  3  points
+
+Running Test: Negative
+
+Input Is:  -
+2
+7
+q
+Expected Output Is:  -5.0
+
+	Output matches! Earned  3  points
+
+
+Total points for calculator(): 30.00
+
+Finished Grading Student: gmcfarlin.
+ Grade breakdown:
+ scifi_faves => 10.00/35.00
+ animal_col => 16.90/35.00
+ calculator => 30.00/30.00
+Total grade is 56.90/100

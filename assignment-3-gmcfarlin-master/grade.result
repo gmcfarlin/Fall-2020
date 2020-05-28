@@ -1,0 +1,234 @@
+Starting Grading Student:  gmcfarlin
+
+****************************************
+
+Starting to grade matplotlib tutorials()
+
+****************************************
+
+
+Points earned for honor statement:  20/20
+
+***************************
+
+Starting to grade lineGIF()
+
+***************************
+
+Making gif: Given File Test
+
+Points earned:  13/15
+NOTES:
+-2 timestamp not added to timestep in the x label
+
+Making gif: New File Test
+
+Points earned:  3/5
+NOTES:
+-2 Need to plot points in order of minimum to maximum x not in the order read in from the file
+
+*****************************
+
+Starting to grade linearFit()
+
+*****************************
+
+
+Points earned for discussion:  3/3
+NOTES:
+
+Running test: Given File Test
+
+Points earned for gif:  7/7
+NOTES:
+
+Student Output Is
+
+y = 1.78797x - 0.09055 where r^2=1.00000
+y = 0.92863x + 0.19590 where r^2=0.99010
+y = 0.99141x + 0.15404 where r^2=0.99053
+y = 1.05657x + 0.08888 where r^2=0.98982
+y = 0.95570x + 0.22337 where r^2=0.98545
+y = 0.97290x + 0.19471 where r^2=0.98548
+y = 0.96138x + 0.21775 where r^2=0.98606
+y = 0.98461x + 0.16354 where r^2=0.98699
+y = 0.98387x + 0.16552 where r^2=0.98937
+y = 0.99309x + 0.13785 where r^2=0.99165
+
+
+Expected Output Is
+
+y = 1.78797x - 0.09055 where r^2=1.00000
+y = 0.92863x + 0.19590 where r^2=0.77794
+y = 0.99141x + 0.15404 where r^2=0.90674
+y = 1.05657x + 0.08888 where r^2=0.95322
+y = 0.95570x + 0.22337 where r^2=0.95317
+y = 0.97290x + 0.19471 where r^2=0.97073
+y = 0.96138x + 0.21775 where r^2=0.97955
+y = 0.98461x + 0.16354 where r^2=0.98500
+y = 0.98387x + 0.16552 where r^2=0.98903
+y = 0.99309x + 0.13785 where r^2=0.99165
+
+
+	 <y = 1.78797x - 0.09055> in student output Earned  0.5  points
+
+	 <where r^2=1.00000> in student output Earned  0.5  points
+
+	 <y = 0.92863x + 0.19590> in student output Earned  0.5  points
+
+	 <where r^2=0.77794> not in student output. No points earned
+
+	 <y = 0.99141x + 0.15404> in student output Earned  0.5  points
+
+	 <where r^2=0.90674> not in student output. No points earned
+
+	 <y = 1.05657x + 0.08888> in student output Earned  0.5  points
+
+	 <where r^2=0.95322> not in student output. No points earned
+
+	 <y = 0.95570x + 0.22337> in student output Earned  0.5  points
+
+	 <where r^2=0.95317> not in student output. No points earned
+
+	 <y = 0.97290x + 0.19471> in student output Earned  0.5  points
+
+	 <where r^2=0.97073> not in student output. No points earned
+
+	 <y = 0.96138x + 0.21775> in student output Earned  0.5  points
+
+	 <where r^2=0.97955> not in student output. No points earned
+
+	 <y = 0.98461x + 0.16354> in student output Earned  0.5  points
+
+	 <where r^2=0.98500> not in student output. No points earned
+
+	 <y = 0.98387x + 0.16552> in student output Earned  0.5  points
+
+	 <where r^2=0.98903> not in student output. No points earned
+
+	 <y = 0.99309x + 0.13785> in student output Earned  0.5  points
+
+	 <where r^2=0.99165> in student output Earned  0.5  points
+
+
+Total points earned for line fitting(): 6.00
+
+***************************
+
+Starting to grade polyFit()
+
+***************************
+
+Running test: Given File Test
+
+Points earned for gif:  7/8
+NOTES:
+-1 not plotted in the requested color/shape
+
+Student Output Is
+
+1: y = 0.11013x + 3.21806 (r^2=0.09413)
+2: y = 0.00540x^2 + 0.15848x + 3.16185 (r^2=0.09552)
+3: y = 0.01039x^3 - 0.14443x^2 + 0.61485x + 2.92864 (r^2=0.12748)
+4: y = 0.01414x^4 + 0.26052x^3 - 1.49174x^2 + 2.81497x + 2.48088 (r^2=0.36692)
+5: y = 0.01172x^5 + 0.24076x^4 - 1.65208x^3 + 4.24318x^2 - 2.90027x + 2.92910 (r^2=0.90767)
+6: y = 0.00576x^6 - 0.15454x^5 + 1.54344x^4 - 6.99876x^3 + 13.83175x^2 - 8.72765x + 3.00000 (r^2=1.00000)
+
+
+Expected Output Is
+
+1: y =  0.31433x + 2.04094 (r^2=0.31036)
+2: y = - 0.08572x^2 + 0.99556x + 1.64844 (r^2=0.49210)
+3: y =  0.03026x^3 - 0.44165x^2 + 1.81327x + 1.89427 (r^2=0.66141)
+4: y = - 0.01182x^4 + 0.21689x^3 - 1.23263x^2 + 2.30146x + 2.68559 (r^2=0.80250)
+5: y = - 0.00356x^5 + 0.05669x^4 - 0.19527x^3 - 0.49613x^2 + 2.56121x + 2.02515 (r^2=0.86517)
+6: y = - 0.00260x^6 + 0.05458x^5 - 0.38856x^4 + 1.08868x^3 - 1.15053x^2 + 0.95851x + 2.69370 (r^2=0.93490)
+
+
+	 <1: y =  0.31433x + 2.04094> not in student output. No points earned
+
+	 <(r^2=0.31036)> not in student output. No points earned
+
+	 <2: y = - 0.08572x^2 + 0.99556x + 1.64844> not in student output. No points earned
+
+	 <(r^2=0.49210)> not in student output. No points earned
+
+	 <3: y =  0.03026x^3 - 0.44165x^2 + 1.81327x + 1.89427> not in student output. No points earned
+
+	 <(r^2=0.66141)> not in student output. No points earned
+
+	 <4: y = - 0.01182x^4 + 0.21689x^3 - 1.23263x^2 + 2.30146x + 2.68559> not in student output. No points earned
+
+	 <(r^2=0.80250)> not in student output. No points earned
+
+	 <5: y = - 0.00356x^5 + 0.05669x^4 - 0.19527x^3 - 0.49613x^2 + 2.56121x + 2.02515> not in student output. No points earned
+
+	 <(r^2=0.86517)> not in student output. No points earned
+
+	 <6: y = - 0.00260x^6 + 0.05458x^5 - 0.38856x^4 + 1.08868x^3 - 1.15053x^2 + 0.95851x + 2.69370> not in student output. No points earned
+
+	 <(r^2=0.93490)> not in student output. No points earned
+
+Running test: New File Test
+
+Points earned for gif:  3/5
+NOTES:
+-2 curves not plotted with x sorted which results in curves not looking like curves
+
+Student Output Is
+
+1: y = 0.29538x - 0.59069 (r^2=0.42413)
+2: y = 0.06154x^2 - 0.30204x - 1.08574 (r^2=0.56119)
+3: y = 0.03327x^3 + 0.06825x^2 + 0.21304x - 1.18378 (r^2=0.80224)
+4: y = 0.01092x^4 - 0.03492x^3 - 0.16668x^2 + 0.24374x - 0.65347 (r^2=0.97230)
+5: y = 0.00154x^5 + 0.01132x^4 + 0.00837x^3 - 0.17650x^2 + 0.01275x - 0.61593 (r^2=0.99433)
+6: y = 0.00032x^6 - 0.00159x^5 + 0.00042x^4 + 0.00974x^3 - 0.08512x^2 + 0.00441x - 0.71604 (r^2=1.00000)
+
+
+Expected Output Is
+
+1: y = - 0.29525x - 0.58949 (r^2=0.42410)
+2: y =  0.06093x^2 - 0.30138x - 1.07564 (r^2=0.55947)
+3: y = - 0.03330x^3 + 0.06817x^2 + 0.21358x - 1.18246 (r^2=0.80223)
+4: y =  0.01091x^4 - 0.03485x^3 - 0.16611x^2 + 0.24240x - 0.65749 (r^2=0.97210)
+5: y = - 0.00154x^5 + 0.01132x^4 + 0.00838x^3 - 0.17650x^2 + 0.01274x - 0.61594 (r^2=0.99433)
+6: y =  0.00032x^6 - 0.00159x^5 + 0.00042x^4 + 0.00974x^3 - 0.08512x^2 + 0.00440x - 0.71604 (r^2=1.00000)
+
+
+	 <1: y = - 0.29525x - 0.58949> not in student output. No points earned
+
+	 <(r^2=0.42410)> not in student output. No points earned
+
+	 <2: y =  0.06093x^2 - 0.30138x - 1.07564> not in student output. No points earned
+
+	 <(r^2=0.55947)> not in student output. No points earned
+
+	 <3: y = - 0.03330x^3 + 0.06817x^2 + 0.21358x - 1.18246> not in student output. No points earned
+
+	 <(r^2=0.80223)> not in student output. No points earned
+
+	 <4: y =  0.01091x^4 - 0.03485x^3 - 0.16611x^2 + 0.24240x - 0.65749> not in student output. No points earned
+
+	 <(r^2=0.97210)> not in student output. No points earned
+
+	 <5: y = - 0.00154x^5 + 0.01132x^4 + 0.00838x^3 - 0.17650x^2 + 0.01274x - 0.61594> not in student output. No points earned
+
+	 <(r^2=0.99433)> in student output Earned  1.25  points
+
+	 <6: y =  0.00032x^6 - 0.00159x^5 + 0.00042x^4 + 0.00974x^3 - 0.08512x^2 + 0.00440x - 0.71604> not in student output. No points earned
+
+	 <(r^2=1.00000)> in student output Earned  1.25  points
+
+
+Total points earned for polynomial fitting(): 2.50
++2.5 two really close equations
+
+Finished Script Grading Student: gmcfarlin.
+ Grade breakdown:
+ linearFit => 6.00
+ polyFit => 5.00
+Total script grade is 11.00
+Total manual grade: 56.00
+
+Bonus points: 10
+Total grade: 77/100

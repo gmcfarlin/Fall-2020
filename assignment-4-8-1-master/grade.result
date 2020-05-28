@@ -1,0 +1,37 @@
+Starting Grading Student:  8-1
+
+*****************************
+
+Starting to grade Zombie Game
+
+*****************************
+
+Running Test: Given Random Zombies
+Number of pass times:  100 /100
+	Player survived! Earned  50  points
+
+Running Test: Attacking Zombies
+Number of pass times:  100 /100
+	Player survived! Earned  15  points
+
+Running Test: Attacking and Moving Zombies 1
+Number of pass times:  100 /100
+	Player survived! Earned  7.5  points
+
+Running Test: Attacking and Moving Zombies 2
+Number of pass times:  100 /100
+	Player survived! Earned  7.5  points
+
+
+Total points for Zombie Game:  80.0
+
+
+Total points for README.txt: 10
+
+
+
+Total points for CodeDevelopment.pdf: 5
+
+class structure image is not included
+
+Finished Grading Student:  8-1 . Grade is:  95.0

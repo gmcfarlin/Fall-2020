@@ -1,0 +1,132 @@
+Starting Grading Student:  gmcfarlin
+
+*******************************
+
+Starting to grade scifi_faves()
+
+*******************************
+
+Running Test: Standard File Test
+	Output does not match. No points earned
+
+Running Test: Super Basic Test
+	Output does not match. No points earned
+
+Running Test: Basic Test with Emphasis on Case Insensitivity
+	Output does not match. No points earned
+
+Running Test: File Format Changes Test
+	Output does not match. No points earned
+
+
+Total points for scifi_faves(): 0.00
+
+******************************
+
+Starting to grade animal_col()
+
+******************************
+
+Running Test: Output Formatting Test
+	Format is not correct. No points earned
+
+Running Test: Standard File Test
+	Output matches! Earned  2.2  points
+
+	Output matches! Earned  2.2  points
+
+	Output does not match. No points earned
+
+	Output matches! Earned  2.2  points
+
+	Output matches! Earned  2.2  points
+
+Running Test: File Format Test
+	Output matches! Earned  1.0  points
+
+	Output matches! Earned  1.0  points
+
+	Output matches! Earned  1.0  points
+
+	Output matches! Earned  1.0  points
+
+Running Test: Singulars in Standard File Test
+	Output matches! Earned  0.7  points
+
+	Output does not match. No points earned
+
+	Output does not match. No points earned
+
+	Output matches! Earned  0.7  points
+
+	Output matches! Earned  0.7  points
+
+Running Test: Unknown Animal Type Test
+	Output does not match. No points earned
+
+Running Test: Random End1 Test
+	Output does not match. No points earned
+
+Running Test: Random End2 Test
+	Output does not match. No points earned
+
+
+Total points for animal_col(): 14.90
+
+*****************************
+
+Starting to grade calculator()
+
+*****************************
+
+Checking if format is correct
+
+	Formatting isn't correct...
+
+Starting yaml testcases
+
+Running Test: Basic Add
+
+	Output matches! Earned  3.0  points
+
+Running Test: Basic Sub
+
+	Output matches! Earned  3.0  points
+
+Running Test: Basic Mult
+
+	Output matches! Earned  3.0  points
+
+Running Test: Basic Div
+
+	Output matches! Earned  3.0  points
+
+Running Test: Basic Exp
+
+	Output matches! Earned  3.0  points
+
+Running Test: Empty Operands
+
+	Output does not match. No points earned
+
+Running Test: One Float
+
+	Output matches! Earned  3.0  points
+
+Running Test: Two Floats
+
+	Output matches! Earned  3.0  points
+
+Running Test: Negative
+
+	Output matches! Earned  3.0  points
+
+
+Total points for calculator(): 24.00
+
+Finished Grading Student: gmcfarlin.
+ Grade breakdown:
+ scifi_faves => 0.00/35.00
+ animal_col => 14.90/35.00
+ calculator => 24.00/30.00
+Total grade is 38.90/100

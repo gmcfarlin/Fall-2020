@@ -1,0 +1,550 @@
+Starting Grading Student:  gmcfarlin
+
+***********************************
+
+Starting to grade myAwesomeMatrix()
+
+***********************************
+
+Running Test: Super Basic Test
+Student Output Is
+
+1
+
+
+
+Expected Output Is
+
+1
+
+	Output matches! Earned  2  points
+
+Running Test: Basic Nested List Test
+Student Output Is
+
+[[1, 1, 1, 1], [1, 1, 1, 1], [1, 1, 1, 1], [1, 1, 1, 1]]
+
+Expected Output Is
+
+[[1, 1, 1, 1], [1, 1, 1, 1], [1, 1, 1, 1], [1, 1, 1, 1]]
+
+	Output matches! Earned  2.5  points
+
+Running Test: Empty Operands Test
+Student Output Is
+
+1 0 0 1
+0 0 1 1
+1 1 1 0
+0 1 1 1
+
+
+
+	Output matches! Earned  2.5  points
+
+Running Test: Basic Print Test
+Student Output Is
+
+1 1 1 1
+1 1 1 1
+1 1 1 1
+1 1 1 1
+
+
+
+Expected Output Is
+
+1 1 1 1
+1 1 1 1
+1 1 1 1
+1 1 1 1
+
+
+	Output matches! Earned  3  points
+
+Running Test: Range keyword Test
+Student Output Is
+
+2 4 3 2
+2 4 2 3
+4 2 3 4
+2 3 2 3
+
+
+
+	Output matches! Earned  2.5  points
+
+Running Test: Rectangular Matrix Test
+Student Output Is
+
+1 1
+1 1
+1 1
+1 1
+1 1
+
+
+
+Expected Output Is
+
+1 1
+1 1
+1 1
+1 1 
+1 1
+
+
+	Output matches! Earned  2.5  points
+
+Running Test: Diagonal Matrix Test
+Student Output Is
+
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+
+
+
+Expected Output Is
+
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+
+
+	Output matches! Earned  2.5  points
+
+Running Test: Upper Matrix Test
+Student Output Is
+
+1 1 1 1
+0 1 1 1
+0 0 1 1
+0 0 0 1
+
+
+
+Expected Output Is
+
+1 1 1 1
+0 1 1 1
+0 0 1 1
+0 0 0 1
+
+
+	Output matches! Earned  2.5  points
+
+Running Test: Lower Matrix Test
+Student Output Is
+
+1 0 0 0
+1 1 0 0
+1 1 1 0
+1 1 1 1
+
+
+
+Expected Output Is
+
+1 0 0 0
+1 1 0 0
+1 1 1 0
+1 1 1 1
+
+
+	Output matches! Earned  2.5  points
+
+Running Test: Symmetric Matrix Test
+Student Output Is
+
+4 3 3 1
+3 4 4 4
+3 4 1 1
+1 4 1 1
+
+
+
+	Output matches! Earned  2.5  points
+
+Running Test: Matrix Formatting Test
+Student Output Is
+
+!cool; 1 1 1 1 ;looc!
+!cool; 1 1 1 1 ;looc!
+!cool; 1 1 1 1 ;looc!
+!cool; 1 1 1 1 ;looc!
+
+
+
+Expected Output Is
+
+!cool; 1 1 1 1 ;looc!
+!cool; 1 1 1 1 ;looc!
+!cool; 1 1 1 1 ;looc!
+!cool; 1 1 1 1 ;looc!     
+
+
+	Output matches! Earned  2.5  points
+
+Running Test: Square Matrix One Norm Calculations
+Student Matrix Is
+
+3 5 1 1
+6 4 5 7
+7 4 7 5
+7 3 6 2
+
+
+
+Student one norm is: 23
+Expected one norm is: 23
+	Output matches! Earned  2.5  points
+
+Running Test: Square Matrix Infinity Norm Calculations
+Student Matrix Is
+
+1 6 3 1
+8 2 2 1
+3 1 6 1
+8 2 1 6
+
+
+
+Student one norm is: 17
+Expected one norm is: 17
+	Output matches! Earned  2.5  points
+
+Running Test: Non Square Matrix One Norm Calculations
+Student Matrix Is
+
+Error! Matrix is not square
+Error! Matrix is not square
+4 4 3 2 2
+8 7 1 8 2
+
+
+
+Student one norm is: 0
+Expected one norm is: 0
+	Output does not match. No points earned
+
+Running Test: Non Square Matrix Infinity Norm Calculations
+Student Matrix Is
+
+Error! Matrix is not square
+Error! Matrix is not square
+5 8 7 2 9 6
+3 3 7 9 7 6
+5 5 2 5 1 7
+
+
+
+Student one norm is: 0
+Expected one norm is: 0
+	Output does not match. No points earned
+
+Running Test: Basic Add Method Calculations
+Student Output Is
+
+1 1 1 1
+1 1 1 1
+1 1 1 1
+1 1 1 1
+
+
+
+Expected Output Is
+
+3 3 3 3
+3 3 3 3
+3 3 3 3
+3 3 3 3    
+
+
+	Output does not match. No points earned
+
+Running Test: Basic Overloaded '+' Calculations
+Student Output Is
+
+1 1 1 1
+1 1 1 1
+1 1 1 1
+1 1 1 1
+
+
+
+Expected Output Is
+
+3 3 3 3
+3 3 3 3
+3 3 3 3
+3 3 3 3 
+
+
+	Output does not match. No points earned
+
+Running Test: Overloaded '+' Calculations With Formatting
+Student Output Is
+
+loo 3 3 3 3 ool
+loo 3 3 3 3 ool
+loo 3 3 3 3 ool
+loo 3 3 3 3 ool
+
+
+
+Expected Output Is
+
+loo 5 5 5 5 ool
+loo 5 5 5 5 ool
+loo 5 5 5 5 ool
+loo 5 5 5 5 ool
+
+
+	Output does not match. No points earned
+
+Running Test: Basic Less Than Matrix Comparison
+Student Matrices
+
+m2:
+2 2 2 2 2
+2 2 2 2 2
+2 2 2 2 2
+2 2 2 2 2
+2 2 2 2 2
+
+m:
+1 1 1 1
+1 1 1 1
+1 1 1 1
+1 1 1 1
+
+
+
+m < m2
+Student Output Is
+True
+Expected Output Is
+True
+	Output matches! Earned  2.5  points
+
+Running Test: Styled Less Than Matrix Comparison
+Student Matrices
+
+m2:
+1 1 1 1
+0 1 1 1
+0 0 1 1
+0 0 0 1
+
+m:
+ed# 3 3 3 #de
+ed# 3 3 3 #de
+ed# 3 3 3 #de
+
+
+
+m < m2
+Student Output Is
+False
+Expected Output Is
+False
+	Output matches! Earned  2.5  points
+
+
+Total points for scifi_faves(): 37.50
+
+*******************************
+
+Starting to grade calculatorA()
+
+*******************************
+
+Checking if format is correct
+
+	Formatting is Correct! Earned 3
+
+Starting yaml testcases
+
+Running Test: Basic Add
+
+Input Is:  6 + 3
+q
+Expected Output Is:  9.0
+
+	Output matches! Earned  6  points
+
+Running Test: Basic Sub
+
+Input Is:  9 - 2
+q
+Expected Output Is:  7.0
+
+	Output matches! Earned  5  points
+
+Running Test: Basic Mult
+
+Input Is:  5 * 5
+q
+Expected Output Is:  25.0
+
+	Output matches! Earned  5  points
+
+Running Test: Basic Div
+
+Input Is:  6 / 3
+q
+Expected Output Is:  2.0
+
+	Output matches! Earned  5  points
+
+Running Test: Basic Exp
+
+Input Is:  3 ^ 3
+q
+Expected Output Is:  27.0
+
+	Output matches! Earned  5  points
+
+Running Test: 1 dp Float
+
+Input Is:  5.2 ^ 0.9
+q
+Expected Output Is:  4.4
+
+	Output matches! Earned  5  points
+
+Running Test: Multiple dp Floats
+
+Input Is:  2.35 - .0124
+q
+Expected Output Is:  2.3
+
+	Output matches! Earned  5  points
+
+Running Test: Multiple dp Floats with Negatives
+
+Input Is:  - 4.0271 - - 1.402
+q
+Expected Output Is:  -2.6
+
+	Output does not match. No points earned
+
+
+Total points for calculator(): 40.00
+
+*******************************
+
+Starting to grade calculatorB()
+
+*******************************
+
+Running Test: Add and Subtract Chain
+
+Input Is:  6 + 3 - 2 + 4
+q
+Expected Output Is:  11.0
+
+	Output matches! Earned  1  points
+
+Running Test: Multiply and Divide Chain
+
+Input Is:  9 * 2 / 3 * 4
+q
+Expected Output Is:  24.0
+
+	Output matches! Earned  0.8  points
+
+Running Test: Exponential Chain
+
+Input Is:  5 - 3 ^ 5
+q
+Expected Output Is:  32.0
+
+	Output matches! Earned  0.8  points
+
+Running Test: 1 dp Float Chain
+
+Input Is:  6.5 / 3.1 - 1.2 ^ .1 * 9.8 + 2.1
+q
+Expected Output Is:  11.8
+
+	Output does not match. No points earned
+
+Running Test: Multiple dp Float Chain
+
+Input Is:  1.031 - 2.051 + 0.102 * 2.105 ^ 2 - 1.152 ^ 6.102 / 1.11111
+q
+Expected Output Is:  293.9
+
+	Output does not match. No points earned
+
+Running Test: Multiple dp Float Chain Returning Negative
+
+Input Is:  1.05 + 0.25 - 15.014 ^ 3 * 1.02 - 2.011
+q
+Expected Output Is:  -2632.8
+
+	Output does not match. No points earned
+
+
+Total points for calculator(): 2.60
+
+*******************************
+
+Starting to grade calculatorC()
+
+*******************************
+
+Running Test: Test 1
+
+Input Is:  - 6 + 3 * - 2 + - 4
+q
+Expected Output Is:  -16.0
+
+	Output does not match. No points earned
+
+Running Test: Test 2
+
+Input Is:  - ( 9 * 2 ) ^ ( ( 1 / 3) * 4 )
+q
+Expected Output Is:  -47.2
+
+	Output does not match. No points earned
+
+Running Test: Test 3
+
+Input Is:  - 4 ^ - ( - 0.51 - - 1.21) + - 2.06
+q
+Expected Output Is:  -2.4
+
+	Output does not match. No points earned
+
+Running Test: Test 4
+
+Input Is:  9.08 - ( - 1.2 * 8.1 + ( - 2.1 + 1.8 ) * 1.2 )
+q
+Expected Output Is:  19.2
+
+	Output does not match. No points earned
+
+Running Test: Test 5
+
+Input Is:  1.00004 + - 0.918 * - 1.23 ^ ( - .3 + - 2.04 - - 1.021 * 9 + ( 0.1 / 1.23 / ( 0.1 / 5.0 ) ) - 0.715 )
+q
+Expected Output Is:  8.6
+
+	Output does not match. No points earned
+
+
+Total points for calculator(): 0.00
+
+Finished Grading Student: gmcfarlin.
+ Grade breakdown:
+ myAwesomeMatrix => 37.50/50.00
+ calculatorA => 40.00/40.00
+ calculatorB => 2.60/5.00
+ calculatorC => 0.00/5.00
+Total grade is 80.10/100
