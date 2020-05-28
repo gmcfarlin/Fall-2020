@@ -12,4 +12,4 @@ Python focused course that sought to engage engineers in the world of open-sourc
 #### Assignments
 These were specific tasks on typically 2-week deadlines that were designed to test our knowledge of developing in python as we progressed through the crash course.
 #### Project
-See ME379M Project description. Presented to the instructor and other students and recieved feedback. 3 Person team of members of the class (no overlap in team members from other project).
+See ME379M Project description. Presented to the instructor and other students and recieved feedback. 3 Person team of members of the class (no overlap in team members from other project). Project files can be found in 'COVID-Project' repo from my user page.
